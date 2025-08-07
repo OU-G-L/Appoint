@@ -34,7 +34,7 @@ First, make sure Python and pip are installed.
 
 git clone https://github.com/OU-G-L/Appoint.git
 
-cd <project-folder>
+cd project-folder
 
 python -m venv venv
 
