@@ -33,11 +33,17 @@ First, make sure Python and pip are installed.
 
 
 git clone https://github.com/OU-G-L/Appoint.git
+
 cd <project-folder>
+
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
+
 python manage.py migrate
+
 python manage.py runserver
 
 ---
