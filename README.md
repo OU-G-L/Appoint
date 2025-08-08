@@ -44,14 +44,14 @@ pip install -r requirements.txt
 
 python manage.py migrate
 
-python manage.py runserver
+
 
 ---
 
 ## Usage
 
 Run the development server:
-python manage.py migrate
+python manage.py runserver
 
 Access the API:
 http://localhost:8000/swagger/
